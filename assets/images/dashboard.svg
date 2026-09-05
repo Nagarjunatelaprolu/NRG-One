@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 850">
+    <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#081638"/><stop offset="1" stop-color="#10265e"/></linearGradient></defs>
+    <rect width="1200" height="850" rx="42" fill="url(#g)"/>
+    <circle cx="1100" cy="80" r="180" fill="#08aaa8" opacity=".09"/><circle cx="120" cy="760" r="220" fill="#ff641d" opacity=".06"/>
+    
+        <rect x="80" y="150" width="1040" height="600" rx="28" fill="#fff" opacity=".98"/>
+        <rect x="120" y="190" width="240" height="130" rx="18" fill="#eafafa"/>
+        <rect x="390" y="190" width="240" height="130" rx="18" fill="#fff1ea"/>
+        <rect x="660" y="190" width="240" height="130" rx="18" fill="#eef2fb"/>
+        <rect x="930" y="190" width="140" height="130" rx="18" fill="#eafafa"/>
+        <rect x="120" y="355" width="590" height="340" rx="22" fill="#f5f7fb"/>
+        <rect x="745" y="355" width="325" height="155" rx="22" fill="#f5f7fb"/>
+        <rect x="745" y="540" width="325" height="155" rx="22" fill="#f5f7fb"/>
+        <polyline points="160,620 250,570 340,595 430,500 520,535 620,430" fill="none" stroke="#08aaa8" stroke-width="14"/>
+        <circle cx="620" cy="430" r="15" fill="#ff641d"/>
+        
+    <text x="80" y="90" fill="#fff" font-family="Arial,sans-serif" font-size="30" font-weight="700">Business operations platform</text>
+    <text x="80" y="125" fill="#b9c6e6" font-family="Arial,sans-serif" font-size="17">Workflows, data and decisions</text>
+    </svg>
