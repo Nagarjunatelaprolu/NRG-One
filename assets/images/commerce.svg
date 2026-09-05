@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 850">
+    <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#081638"/><stop offset="1" stop-color="#10265e"/></linearGradient></defs>
+    <rect width="1200" height="850" rx="42" fill="url(#g)"/>
+    <circle cx="1100" cy="80" r="180" fill="#08aaa8" opacity=".09"/><circle cx="120" cy="760" r="220" fill="#ff641d" opacity=".06"/>
+    
+        <rect x="170" y="190" width="860" height="520" rx="30" fill="#fff"/>
+        <rect x="220" y="245" width="760" height="70" rx="18" fill="#eefafa"/>
+        <rect x="220" y="355" width="230" height="250" rx="20" fill="#f5f7fb"/>
+        <rect x="480" y="355" width="230" height="250" rx="20" fill="#f5f7fb"/>
+        <rect x="740" y="355" width="240" height="250" rx="20" fill="#f5f7fb"/>
+        <circle cx="335" cy="445" r="65" fill="#08aaa8" opacity=".25"/>
+        <circle cx="595" cy="445" r="65" fill="#ff641d" opacity=".22"/>
+        <circle cx="860" cy="445" r="65" fill="#081638" opacity=".18"/>
+        
+    <text x="80" y="90" fill="#fff" font-family="Arial,sans-serif" font-size="30" font-weight="700">Commerce experience</text>
+    <text x="80" y="125" fill="#b9c6e6" font-family="Arial,sans-serif" font-size="17">Catalog • Checkout • Operations</text>
+    </svg>
