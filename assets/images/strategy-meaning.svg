@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#08aaa8"/><stop offset="1" stop-color="#ff641d"/></linearGradient></defs>
+<rect width="760" height="500" rx="34" fill="#f7fafb"/><text x="55" y="65" font-family="Arial" font-size="24" font-weight="700" fill="#081638">Problem → Product Strategy</text>
+<rect x="55" y="110" width="190" height="105" rx="18" fill="#fff" stroke="#dbe5ee"/><text x="78" y="148" font-family="Arial" font-size="16" fill="#081638">Business need</text><text x="78" y="178" font-family="Arial" font-size="13" fill="#66748d">Goals • users • constraints</text>
+<path d="M245 163H335" stroke="url(#g)" stroke-width="6"/><path d="M325 151l18 12-18 12" fill="none" stroke="#ff641d" stroke-width="5"/>
+<rect x="335" y="110" width="190" height="105" rx="18" fill="#081638"/><text x="360" y="148" font-family="Arial" font-size="16" fill="#fff">Product blueprint</text><text x="360" y="178" font-family="Arial" font-size="13" fill="#cbd6ea">Flows • architecture • roadmap</text>
+<path d="M525 163H615" stroke="url(#g)" stroke-width="6"/><path d="M605 151l18 12-18 12" fill="none" stroke="#08aaa8" stroke-width="5"/>
+<rect x="525" y="255" width="170" height="120" rx="20" fill="#fff" stroke="#dbe5ee"/><text x="548" y="292" font-family="Arial" font-size="16" fill="#081638">Measurable value</text><text x="548" y="321" font-family="Arial" font-size="13" fill="#66748d">Adoption • speed • clarity</text>
+<path d="M430 215V255H525" fill="none" stroke="#08aaa8" stroke-width="5"/>
+<circle cx="145" cy="330" r="54" fill="#08aaa8" opacity=".12"/><circle cx="145" cy="330" r="26" fill="#08aaa8"/><text x="118" y="335" font-family="Arial" font-size="13" font-weight="700" fill="#fff">NRG</text>
+</svg>

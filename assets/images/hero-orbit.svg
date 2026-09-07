@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#08aaa8"/><stop offset="1" stop-color="#ff641d"/></linearGradient>
+<radialGradient id="r"><stop stop-color="#08aaa8" stop-opacity=".28"/><stop offset="1" stop-color="#08aaa8" stop-opacity="0"/></radialGradient>
+<filter id="s"><feDropShadow dx="0" dy="22" stdDeviation="25" flood-opacity=".18"/></filter></defs>
+<rect width="900" height="620" rx="42" fill="#f8fbfd"/>
+<circle cx="680" cy="170" r="210" fill="url(#r)"/>
+<g opacity=".5" stroke="#cfe9ea" fill="none"><path d="M50 120H850M50 200H850M50 280H850M50 360H850M50 440H850"/><path d="M120 50V570M220 50V570M320 50V570M420 50V570M520 50V570M620 50V570M720 50V570M820 50V570"/></g>
+<g filter="url(#s)"><rect x="155" y="125" width="590" height="355" rx="24" fill="#081638"/>
+<rect x="180" y="150" width="540" height="300" rx="16" fill="#0c214c"/>
+<path d="M215 385 C315 260 380 410 475 285 S625 330 690 220" fill="none" stroke="url(#g)" stroke-width="8"/>
+<path d="M215 402 C315 300 395 430 490 325 S610 360 690 280" fill="none" stroke="#fff" stroke-opacity=".28" stroke-width="3"/>
+<circle cx="610" cy="220" r="12" fill="#ff641d"/><circle cx="650" cy="245" r="8" fill="#08aaa8"/>
+<text x="215" y="210" font-family="Arial" font-size="24" font-weight="700" fill="#fff">NRG ONE / DIGITAL SYSTEM</text>
+<text x="215" y="245" font-family="Arial" font-size="14" fill="#9fb2d2">PRODUCT • DATA • CLOUD • AI</text></g>
+<g><rect x="80" y="95" width="180" height="84" rx="18" fill="#fff" stroke="#dce7ef"/><text x="105" y="128" font-family="Arial" font-size="13" fill="#64748b">PRODUCT</text><text x="105" y="154" font-family="Arial" font-size="18" font-weight="700" fill="#081638">Clear UX</text>
+<circle cx="225" cy="137" r="12" fill="#08aaa8"/></g>
+<g><rect x="655" y="420" width="165" height="88" rx="18" fill="#fff" stroke="#dce7ef"/><text x="680" y="452" font-family="Arial" font-size="13" fill="#64748b">DELIVERY</text><text x="680" y="478" font-family="Arial" font-size="18" font-weight="700" fill="#081638">Ready to scale</text><circle cx="790" cy="458" r="12" fill="#ff641d"/></g>
+</svg>

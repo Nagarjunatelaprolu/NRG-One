@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+<defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#08aaa8"/><stop offset="1" stop-color="#ff641d"/></linearGradient></defs>
+<rect width="900" height="560" rx="40" fill="#f7fafb"/><text x="60" y="70" font-family="Arial" font-size="28" font-weight="700" fill="#081638">Idea → Experience → Product</text>
+<g font-family="Arial"><rect x="60" y="130" width="210" height="125" rx="22" fill="#fff" stroke="#dce5ee"/><text x="88" y="170" font-size="18" font-weight="700" fill="#081638">01  Understand</text><text x="88" y="202" font-size="14" fill="#66748d">Users • goals • friction</text>
+<rect x="345" y="130" width="210" height="125" rx="22" fill="#081638"/><text x="373" y="170" font-size="18" font-weight="700" fill="#fff">02  Shape</text><text x="373" y="202" font-size="14" fill="#cbd6ea">Flows • UI • architecture</text>
+<rect x="630" y="130" width="210" height="125" rx="22" fill="#fff" stroke="#dce5ee"/><text x="658" y="170" font-size="18" font-weight="700" fill="#081638">03  Deliver</text><text x="658" y="202" font-size="14" fill="#66748d">Build • test • learn</text></g>
+<path d="M270 192H345M555 192H630" stroke="url(#a)" stroke-width="8"/><path d="M335 180l18 12-18 12M620 180l18 12-18 12" fill="none" stroke="#ff641d" stroke-width="5"/>
+<path d="M115 390 C230 310 300 470 420 385 S640 310 785 405" fill="none" stroke="#08aaa8" stroke-width="5" opacity=".75"/>
+<circle cx="115" cy="390" r="12" fill="#08aaa8"/><circle cx="420" cy="385" r="12" fill="#ff641d"/><circle cx="785" cy="405" r="12" fill="#08aaa8"/>
+<text x="60" y="500" font-family="Arial" font-size="15" fill="#66748d">A useful product is a connected journey, not just a collection of screens.</text></svg>

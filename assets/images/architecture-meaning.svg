@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#08aaa8"/><stop offset="1" stop-color="#ff641d"/></linearGradient></defs>
+<rect width="760" height="500" rx="34" fill="#f5f7fb"/><text x="55" y="65" font-family="Arial" font-size="24" font-weight="700" fill="#081638">A System That Connects</text>
+<rect x="55" y="120" width="145" height="90" rx="16" fill="#fff" stroke="#dbe5ee"/><text x="80" y="157" font-family="Arial" font-size="14" font-weight="700" fill="#081638">Users</text><text x="80" y="181" font-family="Arial" font-size="12" fill="#66748d">Web • Mobile</text>
+<rect x="307" y="105" width="145" height="120" rx="18" fill="#081638"/><text x="332" y="150" font-family="Arial" font-size="14" font-weight="700" fill="#fff">Platform</text><text x="332" y="177" font-family="Arial" font-size="12" fill="#cbd6ea">API • Logic • Auth</text>
+<rect x="560" y="120" width="145" height="90" rx="16" fill="#fff" stroke="#dbe5ee"/><text x="585" y="157" font-family="Arial" font-size="14" font-weight="700" fill="#081638">Systems</text><text x="585" y="181" font-family="Arial" font-size="12" fill="#66748d">CRM • ERP • Data</text>
+<path d="M200 165H307M452 165H560" stroke="url(#g)" stroke-width="7"/><path d="M297 154l18 11-18 11M550 154l18 11-18 11" fill="none" stroke="#ff641d" stroke-width="5"/>
+<rect x="180" y="300" width="400" height="90" rx="18" fill="#fff" stroke="#dbe5ee"/><text x="215" y="335" font-family="Arial" font-size="14" font-weight="700" fill="#081638">Observability + Security + Quality</text><text x="215" y="362" font-family="Arial" font-size="12" fill="#66748d">The layer that keeps the whole product dependable.</text>
+<path d="M380 225V300" stroke="#08aaa8" stroke-width="6"/>
+</svg>

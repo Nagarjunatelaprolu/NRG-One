@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#08aaa8"/><stop offset="1" stop-color="#ff641d"/></linearGradient></defs>
+<rect width="760" height="500" rx="34" fill="#081638"/><text x="55" y="65" font-family="Arial" font-size="24" font-weight="700" fill="#fff">Launch → Learn → Improve</text>
+<path d="M110 285 C190 150 290 150 370 285 S550 420 650 250" fill="none" stroke="url(#g)" stroke-width="7"/>
+<circle cx="110" cy="285" r="16" fill="#08aaa8"/><circle cx="370" cy="285" r="16" fill="#ff641d"/><circle cx="650" cy="250" r="16" fill="#08aaa8"/>
+<g font-family="Arial" fill="#cbd6ea" font-size="14"><text x="80" y="335">Launch</text><text x="335" y="335">Observe</text><text x="615" y="300">Improve</text></g>
+<rect x="120" y="390" width="520" height="48" rx="24" fill="#fff" opacity=".08"/><text x="165" y="420" font-family="Arial" font-size="13" fill="#fff">Support • monitoring • enhancements • roadmap</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+<rect width="900" height="560" rx="40" fill="#081638"/><text x="60" y="70" font-family="Arial" font-size="28" font-weight="700" fill="#fff">Build with a Quality Loop</text>
+<g font-family="Arial" text-anchor="middle"><circle cx="180" cy="270" r="78" fill="#fff"/><text x="180" y="265" font-size="18" font-weight="700" fill="#081638">PLAN</text><text x="180" y="292" font-size="13" fill="#66748d">risk + scope</text>
+<circle cx="450" cy="160" r="78" fill="#08aaa8"/><text x="450" y="155" font-size="18" font-weight="700" fill="#fff">BUILD</text><text x="450" y="182" font-size="13" fill="#e8ffff">code + integrate</text>
+<circle cx="720" cy="270" r="78" fill="#fff"/><text x="720" y="265" font-size="18" font-weight="700" fill="#081638">VERIFY</text><text x="720" y="292" font-size="13" fill="#66748d">test + observe</text>
+<circle cx="450" cy="420" r="78" fill="#ff641d"/><text x="450" y="415" font-size="18" font-weight="700" fill="#fff">IMPROVE</text><text x="450" y="442" font-size="13" fill="#fff">learn + release</text></g>
+<path d="M250 245L380 185M520 185L650 245M650 325L520 385M380 385L250 325" fill="none" stroke="#7f91ad" stroke-width="6"/>
+<text x="60" y="510" font-family="Arial" font-size="15" fill="#cbd6ea">Quality, security and observability travel with the product from the first sprint.</text></svg>

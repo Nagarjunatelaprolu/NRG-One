@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500">
+<rect width="760" height="500" rx="34" fill="#f7fafb"/><text x="55" y="65" font-family="Arial" font-size="24" font-weight="700" fill="#081638">Data → Decisions</text>
+<rect x="55" y="115" width="170" height="250" rx="18" fill="#fff" stroke="#dbe5ee"/><text x="78" y="150" font-family="Arial" font-size="14" font-weight="700" fill="#081638">Signals</text>
+<circle cx="105" cy="205" r="10" fill="#08aaa8"/><circle cx="145" cy="245" r="10" fill="#ff641d"/><circle cx="185" cy="285" r="10" fill="#08aaa8"/><path d="M105 205L145 245L185 285" fill="none" stroke="#9aabc0" stroke-width="4"/>
+<rect x="295" y="115" width="170" height="250" rx="18" fill="#081638"/><text x="318" y="150" font-family="Arial" font-size="14" font-weight="700" fill="#fff">Understand</text><path d="M325 300V210M365 300V180M405 300V240M445 300V155" stroke="#08aaa8" stroke-width="18" stroke-linecap="round"/>
+<rect x="535" y="115" width="170" height="250" rx="18" fill="#fff" stroke="#dbe5ee"/><text x="558" y="150" font-family="Arial" font-size="14" font-weight="700" fill="#081638">Act</text><circle cx="620" cy="240" r="58" fill="#08aaa8" opacity=".13"/><path d="M590 240l22 22 43-50" fill="none" stroke="#08aaa8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

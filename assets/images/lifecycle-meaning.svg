@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500">
+<rect width="760" height="500" rx="34" fill="#fff"/><text x="55" y="65" font-family="Arial" font-size="24" font-weight="700" fill="#081638">Product Lifecycle</text>
+<g font-family="Arial" font-size="13" font-weight="700" text-anchor="middle"><circle cx="125" cy="225" r="55" fill="#08aaa8"/><text x="125" y="230" fill="#fff">DISCOVER</text><circle cx="290" cy="225" r="55" fill="#081638"/><text x="290" y="230" fill="#fff">DESIGN</text><circle cx="455" cy="225" r="55" fill="#ff641d"/><text x="455" y="230" fill="#fff">BUILD</text><circle cx="620" cy="225" r="55" fill="#08aaa8"/><text x="620" y="230" fill="#fff">GROW</text></g>
+<path d="M180 225H235M345 225H400M510 225H565" stroke="#a9b6c9" stroke-width="5"/>
+<text x="55" y="350" font-family="Arial" font-size="14" fill="#66748d">Strategy, product design, engineering, QA, launch and continuous improvement.</text>
+<path d="M125 405 C250 470 510 470 635 405" fill="none" stroke="#08aaa8" stroke-width="3" stroke-dasharray="7 8"/>
+</svg>

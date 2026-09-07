@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 850">
-    <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#081638"/><stop offset="1" stop-color="#10265e"/></linearGradient></defs>
-    <rect width="1200" height="850" rx="42" fill="url(#g)"/>
-    <circle cx="1100" cy="80" r="180" fill="#08aaa8" opacity=".09"/><circle cx="120" cy="760" r="220" fill="#ff641d" opacity=".06"/>
-    
-        <g fill="none" stroke="#08aaa8" stroke-width="8" opacity=".9">
-        <path d="M160 610 C300 430 350 650 500 450 S750 310 900 500 S1010 620 1080 360"/>
-        <path d="M180 300 C320 430 390 250 540 350 S760 600 950 300"/>
-        </g>
-        <g fill="#ff641d">
-        <circle cx="160" cy="610" r="14"/><circle cx="500" cy="450" r="14"/><circle cx="1080" cy="360" r="14"/>
-        </g>
-        
-    <text x="80" y="90" fill="#fff" font-family="Arial,sans-serif" font-size="30" font-weight="700">Digital product engineering</text>
-    <text x="80" y="125" fill="#b9c6e6" font-family="Arial,sans-serif" font-size="17">Architecture • Experience • Delivery</text>
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600"><defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#08aaa8"/><stop offset="1" stop-color="#ff641d"/></linearGradient></defs><rect width="900" height="600" rx="36" fill="#081638"/><g fill="none" stroke="url(#g)" opacity=".65"><path d="M80 430L260 260 420 360 650 120 820 220"/><circle cx="80" cy="430" r="9" fill="#08aaa8"/><circle cx="260" cy="260" r="9" fill="#08aaa8"/><circle cx="420" cy="360" r="9" fill="#ff641d"/><circle cx="650" cy="120" r="9" fill="#08aaa8"/><circle cx="820" cy="220" r="9" fill="#ff641d"/></g><g fill="#fff" opacity=".08"><rect x="90" y="70" width="230" height="120" rx="18"/><rect x="350" y="90" width="220" height="90" rx="18"/><rect x="600" y="300" width="190" height="130" rx="18"/></g><text x="90" y="130" fill="#fff" font-family="Arial" font-size="26" font-weight="700">DIGITAL SYSTEM</text><text x="90" y="160" fill="#9fb0d0" font-family="Arial" font-size="16">Designed • Engineered • Scaled</text></svg>
